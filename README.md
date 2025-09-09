@@ -53,11 +53,11 @@ Bar charts (Item type & outlet-wise sales)
 Line chart (Outlet establishment trends: 2010–2020)
 KPI cards (Sales, Ratings, Items)
 
-## Dashboard Snapshot
-- <img width="1185" height="686" alt="Dashboard SnapShot" src="https://github.com/user-attachments/assets/5510af7c-d584-480b-85d4-2383ee921ba1" />
+## Dashboard Snapshot:
+<img width="1185" height="686" alt="Dashboard SnapShot" src="https://github.com/user-attachments/assets/5510af7c-d584-480b-85d4-2383ee921ba1" />
 
 
-## How It Works
+## How It Works:
 Dataset imported into Power BI.
 Data cleaned and transformed using Power Query.
 Relationships built between outlets, items, and locations.
@@ -71,8 +71,7 @@ Customer Analysis: Understands satisfaction through ratings.
 Trend Forecasting: Tracks outlet growth and sales trends over time.
 Decision Support: Helps managers optimize resources and boost sales.
 
-## Conclusion
+## Conclusion:
 
 This Power BI dashboard delivers a holistic view of Blinkit’s business performance, covering sales, customer satisfaction, and outlet distribution. By integrating multiple KPIs and granular breakdowns, it helps stakeholders uncover actionable insights and make data-driven decisions.
-
 Through this project, I developed strong skills in Power BI dashboarding, data modeling, and storytelling with data, making it a solid foundation for more advanced analytics projects.
