@@ -4,8 +4,11 @@ This project is an interactive Power BI dashboard built using Blinkit (India’s
 ## Project Objective:
 The objective of this project is to analyze Blinkit’s sales data using Power BI to gain insights into sales performance, customer satisfaction, and outlet distribution. By leveraging KPIs and visualizations, the dashboard helps identify top-performing products and outlets, track trends, and support data-driven decision making.
 
-##Dataset used:
+## Dataset used:
 - <a href="https://github.com/hegdesakshi/BLINKIT-DATA-ANALYSIS-DASHBOARD/blob/main/BlinkIT%20Grocery%20Data.csv">Dataset</a>
+
+## Dashboard Interaction:
+- <a href="https://github.com/hegdesakshi/BLINKIT-DATA-ANALYSIS-DASHBOARD/blob/main/BLINKIT%20DASHBOARD.pbit">View Dashboard</a>
 
 ## KPI Requirements:
 
@@ -49,6 +52,9 @@ Donut chart (Fat content impact)
 Bar charts (Item type & outlet-wise sales)
 Line chart (Outlet establishment trends: 2010–2020)
 KPI cards (Sales, Ratings, Items)
+
+## Dashboard Snapshot
+
 
 ## How It Works
 Dataset imported into Power BI.
