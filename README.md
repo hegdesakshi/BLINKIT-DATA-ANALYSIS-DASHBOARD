@@ -54,6 +54,7 @@ Line chart (Outlet establishment trends: 2010–2020)
 KPI cards (Sales, Ratings, Items)
 
 ## Dashboard Snapshot
+- <img width="1185" height="686" alt="Dashboard SnapShot" src="https://github.com/user-attachments/assets/5510af7c-d584-480b-85d4-2383ee921ba1" />
 
 
 ## How It Works
